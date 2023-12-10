@@ -4,7 +4,7 @@
  * Description:       Custom Plugin to handle recruiment process.
  * Version:           1.0
  * Author:            Ahmed Hany
- * Author URI:        https://author.example.com/
+ * Author URI:        https://github.com/AhmedHany2021
  * Text Domain:       alrahal
  * Domain Path:       /languages
  */
