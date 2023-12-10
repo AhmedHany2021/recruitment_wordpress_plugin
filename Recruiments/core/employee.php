@@ -7,7 +7,10 @@ class employee
     {
         
     }
-    
+    /*
+     * get all employees
+      */
+
     public function get_all_employee()
     {
         $args = array(
